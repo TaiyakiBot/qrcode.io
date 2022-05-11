@@ -12,7 +12,7 @@ body {
 }
 
 .css-typing p:nth-child(1) {
-  width: 42em;
+  width: 38em;
   -webkit-animation: type 3s steps(62, end);
   animation: type2 3s steps(62, end);
   -webkit-animation-fill-mode: forwards;
@@ -40,7 +40,7 @@ body {
 }
 
 .css-typing p:nth-child(4) {
-  width: 36em;
+  width: 32.5em;
   opacity: 0;
   -webkit-animation: type2 2.75s steps(54, end);
   animation: type2 2.75s steps(54, end);
@@ -51,7 +51,7 @@ body {
 }
 
 .css-typing p:nth-child(5) {
-  width: 42em;
+  width: 38.5em;
   opacity: 0;
   -webkit-animation: type2 3s steps(64, end);
   animation: type2 3s steps(64, end);
@@ -168,3 +168,4 @@ body {
     border-color: tranparent;
   }
 }
+
